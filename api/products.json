@@ -1,0 +1,127 @@
+[
+    {
+      "id": 1,
+      "name": "Apple MacBook Air Apple M3",
+      "category": "Computers",
+      "price": 13382.71,
+      "color": "Black , silver , space grey",
+      "stock": 50,
+      "description": "(8 GB/256 GB SSD/macOS Sonoma) MRYU3HN/A  (15 Inch, Midnight, 1.51 Kg)",
+      "image": "./public/images/extra1.3.png"
+    },
+    {
+      "id": 2, 
+      "name": "Wireless Magnetic Charger",
+      "category": "Mobile Accessories",
+      "price": 499.99,
+      "color": "Black",
+      "stock": 50,
+      "description": "Futuristic High-tech Cyberpunk MagSafe Phone Holder Stand Wireless USB Magnetic Induction Charger",
+      "image": "./public/images/2nd-product.png"
+    },
+    {
+      "id": 3,
+      "name": "Wireless Bluetooth Speaker",
+      "category": "Audio",
+      "price": 165.79,
+      "color": "black and blue, black and white",
+      "stock": 50,
+      "description": "SainSonic MP-02 Scifi Saucer Levitating Floating Wireless Bluetooth Speaker.",
+      "image": "./public/images/3rd-product.png"
+    },
+    {
+      "id": 4,
+      "name": "AirPods Max",
+      "category": "Audio",
+      "price": 713.77,
+      "color": "Sky Blue , Silver",
+      "stock": 50,
+      "description": "Apple New AirPods Max Bluetooth Headset Bluetooth version: 5 and Active Noise Cancellation blocks outside noise",
+      "image": "./public/images/extra1.11.png"
+    },
+    {
+      "id": 5,
+      "name": "Apple Watch Series 8 ",
+      "category": "Watch",
+      "price": 905.68,
+      "color": "Gold , White ,Blue, gray ",
+      "stock": 50,
+      "description": "Apple Watch Series 8 GPS + Cellular with ECG app, Temperature sensor, Crash Detection ",
+      "image": "./public/images/5th-product.png"
+    },
+    {
+      "id": 6,
+      "name": "Galaxy S23 Plus",
+      "category": "Mobile",
+      "price": 1012.94,
+      "color": "Cream, Graphite , Mint",
+      "stock": 50,
+      "description": "8 GB RAM | 256 GB ROM ,Full HD+ Display,4700 mAh Battery,Snapdragon 8 Gen 2 Processor",
+      "image": "./public/images/extra-1.2.png"
+    },
+
+    {
+      "id": 7,
+      "name": "Samsung Galaxy Book 4",
+      "category": "Laptop",
+      "price": 713.58,
+      "color": "Sliver,Gray,Black",
+      "stock": 20,
+      "description": "16 GB RAM | 512 GB SSD ,15.6 inch Display, 1.55 kg , Windows 11 home",
+      "image": "./public/images/7th-product.png"
+    },
+
+    {
+      "id": 8,
+      "name": "Samsung Galaxy S24 Ultra",
+      "category": "Mobile",
+      "price": 1451.17,
+      "color": "Yellow, Violet , Gray, Black",
+      "stock": 450,
+      "description": "12 GB RAM | 256 GB ROM , 6.8 inch Dynamic Amoled ,Snapdragon 8 Gen 3",
+      "image": "./public/images/8th-product.png"
+    },
+
+    {
+      "id": 9,
+      "name": "Iphone 16 Pro Max",
+      "category": "Mobile",
+      "price": 2199.37,
+      "color": "Desert, Black , White " ,
+      "stock": 5000,
+      "description": "12 GB RAM | 1 TB ROM ,Super Retina XDR display,5000 mAh Battery,A18 Pro chip With 6-core GPU",
+      "image": "./public/images/9.2th-product.png"
+    },
+
+    {
+      "id": 10,
+      "name": "Smart Ring",
+      "category": "Ring",
+      "price": 156.42,
+      "color": "Black , Silver, Gold",
+      "stock": 1200,
+      "description": "Crafted from titanium | Water resistant ,Smart Ring Fitness, ",
+      "image": "./public/images/10.1th-product.png"
+    },
+    {
+      "id": 11,
+      "name": "Apple AirPods Pro",
+      "category": "Audio",
+      "price": 261.57,
+      "color": "White",
+      "stock": 900,
+      "description": "Active Noise Cancellation, Audio with dynamic head tracking, ",
+      "image": "./public/images/11.2.png"
+    },
+    {
+      "id": 12,
+      "name": "LV Trainer Sneaker",
+      "category": "Footwear",
+      "price": 1379.81,
+      "color": "White , blue",
+      "stock": 10,
+      "description": "Genuine leather sneaker, 7 hours of stitching for one pair,Made in Italy ",
+      "image": "./public/images/12th.png"
+    }
+  ]
+  
